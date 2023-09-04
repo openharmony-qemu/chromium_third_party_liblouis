@@ -1,8 +1,8 @@
 [
     {
-        "Name": "cchromium_third_party_liblouis",                   # 上游开源软件名全称
-        "License": "Copyright",        # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE.TXT", "LGPLStyleLicense"  ,"GPLStyleLicense"     # 许可证所在文件路径
+        "Name": "chromium_third_party_liblouis",                   # 上游开源软件名全称
+        "License": "LGPLStyleLicense"  ,"GPLStyleLicense" ,"Khronos License","GPL-2.0-with-bison-exception" ,"GPL-3.0+","Khronos Group License","GPLStyleLicense","LGPLStyleLicense","LGPL-2.1+" ,"Copyright"      # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE.md",      # 许可证所在文件路径
         "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
         "Upstream URL": "https://chromium.googlesource.com/external/liblouis-github.git@10f66b2735b7d1e3e44d98f6dedbb859d197ea57",   # 上游软件包发布地址
         "Description": "第三方软件liblouis"           # 开源软件功能描述
