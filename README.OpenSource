@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_liblouis",                   # 上游开源软件名全称
+        "Name": "liblouis-github",                   # 上游开源软件名全称
         "License": "LGPLStyleLicense"      # 上游开源软件中包含的许可证信息
         "License File": "License.md",      # 许可证所在文件路径
         "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
@@ -8,7 +8,7 @@
         "Description": "第三方软件liblouis"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_liblouis",                   # 上游开源软件名全称
+        "Name": "liblouis-github",                   # 上游开源软件名全称
         "License": "GPLStyleLicense"        # 上游开源软件中包含的许可证信息
         "License File": "License.md",      # 许可证所在文件路径
         "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
@@ -16,7 +16,7 @@
         "Description": "第三方软件liblouis"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_liblouis",                   # 上游开源软件名全称
+        "Name": "liblouis-github",                   # 上游开源软件名全称
         "License": "GPL-3.0-or-later"      # 上游开源软件中包含的许可证信息
         "License File": "License.md",      # 许可证所在文件路径
         "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
@@ -24,7 +24,7 @@
         "Description": "第三方软件liblouis"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_liblouis",                   # 上游开源软件名全称
+        "Name": "liblouis-github",                   # 上游开源软件名全称
         "License": "LGPL-2.1+"       # 上游开源软件中包含的许可证信息
         "License File": "License.md",      # 许可证所在文件路径
         "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
@@ -32,7 +32,7 @@
         "Description": "第三方软件liblouis"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_liblouis",                   # 上游开源软件名全称
+        "Name": "liblouis-github",                   # 上游开源软件名全称
         "License":"FSFULLR"      # 上游开源软件中包含的许可证信息
         "License File": "License.md",      # 许可证所在文件路径
         "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
@@ -40,7 +40,7 @@
         "Description": "第三方软件liblouis"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_liblouis",                   # 上游开源软件名全称
+        "Name": "liblouis-github",                   # 上游开源软件名全称
         "License": "FSFAP"       # 上游开源软件中包含的许可证信息
         "License File": "License.md",      # 许可证所在文件路径
         "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
