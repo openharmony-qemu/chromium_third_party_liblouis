@@ -6,15 +6,6 @@
         "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/liblouis-github.git@10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
-        "Description": "第三方软件liblouis"
-    },
-    {
-        "Name": "liblouis-github",
-        "License": "LGPL-2.1-or-later",
-        "License File": "License.md",
-        "Version Number": "10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
-        "Owner": "huangjiewen2@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/liblouis-github.git@10f66b2735b7d1e3e44d98f6dedbb859d197ea57",
-        "Description": "第三方软件liblouis"
+        "Description": "第三方软件liblouis，就是lou_translate函数，来翻译2级盲文"
     }
 ]
