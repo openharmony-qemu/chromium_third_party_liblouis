@@ -86,9 +86,6 @@ used to filter file path.
                 <filteritem type="filepath" name="README.OpenSource" desc="Filter readme.opensource files" />
             </filefilter>
             <filefilter name="binaryFileTypePolicyFilter" desc="Check to see if it is a binary file">
-                <filteritem type="filename" name="*.yaml"  desc="chromium原生二进制文件,不会使用" />
-                <filteritem type="filepath" name="tables/grc-international-decomposed.uti"  desc="chromium原生二进制文件,不会使用" />
-                <filteritem type="filepath" name="tables/el.ctb"  desc="chromium原生二进制文件,不会使用" />
             </filefilter>
             <filefilter name="defaultFilter" desc="File is not used">
                 <filteritem type="filepath" name="contrib/ascii-braille.el" desc="经确认，该文件不会使用" />
@@ -97,6 +94,8 @@ used to filter file path.
                 <filteritem type="filepath" name="gnulib.*" desc="经确认，该文件不会使用" />
                 <filteritem type="filepath" name="tools/gnulib.*" desc="经确认，该文件不会使用" />
                 <filteritem type="filepath" name="COPYING.LESSER" desc="经确认，该文件不会使用" />
+                <filteritem type="filepath" name="tests/braille-specs/.*yaml"  desc="经确认为测试文件，该文件不会使用" />
+                <filteritem type="filepath" name="tables/el.ctb"  desc="经确认，该文件不会使用" />
             </filefilter>
         </filefilterlist>
         <licensematcherlist>
