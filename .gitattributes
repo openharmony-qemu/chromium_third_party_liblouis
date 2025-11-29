@@ -1,4 +1,4 @@
-tests/braille-specs/da-dk-g16-dictionary_harness.yaml filter=lfs diff=lfs merge=lfs -text
 tests/braille-specs/da-dk-g26-dictionary_harness.yaml filter=lfs diff=lfs merge=lfs -text
-tests/braille-specs/da-dk-g28-dictionary_harness.yaml filter=lfs diff=lfs merge=lfs -text
+tests/braille-specs/da-dk-g16-dictionary_harness.yaml filter=lfs diff=lfs merge=lfs -text
 tests/braille-specs/da-dk-g18-dictionary_harness.yaml filter=lfs diff=lfs merge=lfs -text
+tests/braille-specs/da-dk-g28-dictionary_harness.yaml filter=lfs diff=lfs merge=lfs -text
